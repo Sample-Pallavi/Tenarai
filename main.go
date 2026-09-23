@@ -74,8 +74,9 @@ func main() {
         fmt.Scan(&continueChoice)
 
 
+        
         if continueChoice != "yes" {
-            fmt.Println("Thank you!")
+            fmt.Println("Thank you! and welcome")
             break
         }
     }
