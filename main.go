@@ -76,7 +76,7 @@ func main() {
 
         
         if continueChoice != "yes" {
-            fmt.Println("Employee Report")
+            fmt.Println("Go Employee Management Application")
             break
         }
     }
