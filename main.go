@@ -76,7 +76,7 @@ func main() {
 
         
         if continueChoice != "yes" {
-            fmt.Println("Thank you and welcome to Tenarai")
+            fmt.Println("Thank you! and welcome to Tenarai")
             break
         }
     }
